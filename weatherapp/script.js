@@ -1,4 +1,4 @@
-const wAPIkey = "995b626f8e1404b00d411fb5a4e1eff0";
+const wAPIkey = "995b626f8e1404b00d411fb5a4e1eff0"; // do not care, it is free anyway
 
 const curWeather = {
     cityInput: document.getElementById("cityInput"),
